@@ -329,6 +329,11 @@ Coding Style
 * Python code should be Python3-compatible and `PEP8`_ conformant. Imports should
   follow the `smarkets`_ style.
 
+*  If you are using `firefox`_, you can install `EDAM Popovers`_ to get the detailed information to EDAM terms.
+
+.. image:: edam_popovers.png
+
+
 .. _description: https://docs.galaxyproject.org/en/latest/dev/schema.html#tool-description
 .. _macros: https://docs.galaxyproject.org/en/latest/dev/schema.html#tool-macros
 .. _requirements: https://docs.galaxyproject.org/en/latest/dev/schema.html#tool-requirements
@@ -350,3 +355,5 @@ Coding Style
 .. _Galaxy repository: https://github.com/galaxyproject/galaxy
 .. _PEP8: https://www.python.org/dev/peps/pep-0008/
 .. _smarkets: https://github.com/PyCQA/flake8-import-order/blob/master/tests/test_cases/complete_smarkets.py
+.. _firefox: https://www.mozilla.org/en-GB/firefox/all/#product-desktop-release
+.. _EDAM Popovers: https://addons.mozilla.org/en-US/firefox/addon/edam-popovers/
